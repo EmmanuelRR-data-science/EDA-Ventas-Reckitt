@@ -26,21 +26,6 @@ Explorar y entender el comportamiento de las ventas a través de visualizaciones
 - Se detectaron picos de ventas en periodos específicos del calendario.
 - Se identificaron productos con comportamiento atípico que podrían requerir análisis adicional.
 
-## 📂 Cómo ejecutar
-
-1. Clona este repositorio.
-2. Instala las dependencias con:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Abre el notebook desde Jupyter:
-
-```bash
-jupyter notebook notebooks/Entregable_2v2.ipynb
-```
-
 ---
 
 ## ✍️ Autor
